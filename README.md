@@ -1,17 +1,13 @@
-# Ejemplos de Programación Orientada a Objetos ISC 2022 UTP 
-## Ejercicios en Java - Universidad Tecnológica de Pereira
+# Ejemplos de Programación Orientada a Objetos
+## Ejercicios en Java 
 
-Este repositorio contiene una serie de ejercicios relacionados con la materia de Programación Orientada a Objetos (POO), enfocados en el lenguaje de programación Java. Los ejercicios son parte del curso de Ingeniería en Sistemas en la Universidad Tecnológica de Pereira (UTP).
+Este repositorio contiene una serie de ejercicios relacionados con la materia de Programación Orientada a Objetos (POO), enfocados en el lenguaje de programación Java y quizas otros más. Mi ideal con esto es mejorar mis habilidades convirtiendome a mi misma en una desarrolladora que haga las cosas optimas y bien hechas.
+Los ejercicios encontrados son parte de diferentes cursos vistos en internet o en la academia.
 
-## Contenido del Repositorio
-### Archivos de Ejemplo
-- **Cilindro.java**: Ejemplos relacionados con la creación y manipulación de objetos Cilindro.
-- **Factura.java**: Ejemplos de manejo de objetos relacionados con facturación.
-- **POO.java**: Programa principal que integra diferentes ejemplos de POO.
-- **Productos.java**: Ejemplos de manejo de objetos relacionados con productos.
-- **Student.java**: Ejemplos de creación y manipulación de objetos Estudiante.
-- **Triangulo.java**: Ejemplos de creación y manipulación de objetos Triángulo.
-- **customer.java**: Ejemplos relacionados con la creación y manipulación de objetos Cliente.
+## De donde porovienen los ejercicios vistos aquí?
+- Universidad Tecnológica de Pereira (UTP). 
+- ALURA LATAM Cursos
+- 
 
 ## Instrucciones de Uso
 
