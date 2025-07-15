@@ -15,8 +15,9 @@ public class Descuento {
     }
 
     public void aplicarDcto(){
+        double descuento = 0.1;
         if(this.valorCompra >= 100.00){
-            this.nuevoValor = valorCompra - (valorCompra * 0.1);
+            this.nuevoValor = valorCompra - (valorCompra * descuento);
             System.out.println("Descuento del 10% aplicado.\nNuevo Valor: "+ this.nuevoValor);
         }else{
             System.out.println("Descuento no aplicado.\nValor total: "+ this.valorCompra);
