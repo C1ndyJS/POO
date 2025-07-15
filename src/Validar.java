@@ -1,4 +1,3 @@
-import java.util.Scanner;
 /*
 Jéssica trabaja en el departamento de TI de una empresa y necesita garantizar la seguridad de
 los accesos al sistema interno. Los empleados utilizan una contraseña fija para acceder a sus cuentas,

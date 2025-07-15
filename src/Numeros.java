@@ -1,4 +1,3 @@
-import java.util.Scanner;
 /*
 * Ana necesita identificar si un número es par o impar para un juego que está desarrollando.
 * Para ello, quiere crear un programa que analice si el número que ha definido previamente es par o impar.
